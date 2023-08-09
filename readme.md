@@ -1,0 +1,1 @@
+todos os exercícios de python que eu ja fiz
