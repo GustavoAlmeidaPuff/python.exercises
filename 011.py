@@ -9,3 +9,4 @@ area= l*a
 Ltinta= area/2
 
 print('sua parede tem a dimesão de {:.2f}x{:.2f} e sua área é de {:.3f}metros quadrados\n e a quantidade necessária de tinta é de {} litros de tinta'.format(l, a, area, Ltinta))
+#yooo
